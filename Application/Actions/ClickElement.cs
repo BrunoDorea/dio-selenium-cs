@@ -9,7 +9,6 @@ namespace Application.Actions {
     public class ClickElement {
         string chromeDrivePath = "";
         ChromeOptions options = new ChromeOptions();
-        // options.addArguments("--headless");
 
         public void Navigate() {
             using(ChromeDriver driver = new ChromeDriver(chromeDrivePath, options)) {
