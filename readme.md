@@ -1,4 +1,4 @@
-# Primeiros Passos com Selenium para Automação de Testes
+# Automação de Testes - Primeiros Passos com C# & Selenium
 
 [![wakatime](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/018b7298-ee92-48d2-9c4b-607988c7d7fa.svg)](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/018b7298-ee92-48d2-9c4b-607988c7d7fa)
 
